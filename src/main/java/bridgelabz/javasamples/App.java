@@ -5,7 +5,11 @@ import org.apache.logging.log4j.Logger;
 
 /**
  * Hello world!
- * CONFLICT INDUCED IN LOCAL
+<<<<<<< HEAD
+ * CONFLICT INDUCED IN REMOTE
+=======
+ * CONFLICT INDUCED IN REMOTE
+>>>>>>> origin
  */
 public class App {
 	private static final Logger LOG = LogManager.getLogger(App.class);
